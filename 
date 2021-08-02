@@ -1,0 +1,17 @@
+[33mcommit 6ff2ea9c9dd0c0c1dbe5fe87f69dd6815ee49e8b[m[33m ([m[1;36mHEAD -> [m[1;32mdevelopment[m[33m, [m[1;32mmaster[m[33m)[m
+Author: saurmaurya <saurmaurya@hotmail.com>
+Date:   Mon Aug 2 21:44:25 2021 +0530
+
+    Initial Commit
+
+[33mcommit 4b51903a977205b40c4db98b0a20f1ce6b42f99b[m
+Author: saurmaurya <saurmaurya@hotmail.com>
+Date:   Mon Aug 2 12:25:57 2021 +0530
+
+    Initialize Repo
+
+[33mcommit 9a1a4250a1d293c5a4f397bd388fc7f2e5b7a83c[m
+Author: saurmaurya <saurmaurya@hotmail.com>
+Date:   Sun Aug 1 22:42:31 2021 +0530
+
+    Initialize project using Create React App
